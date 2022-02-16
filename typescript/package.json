@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  },
+  "name": "typescript-tutorial",
+  "version": "1.0.0",
+  "description": "tutorial for typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HossamKhir/spc-tutorialspoint.git"
+  },
+  "author": "Hossam Khair",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/HossamKhir/spc-tutorialspoint/issues"
+  },
+  "homepage": "https://github.com/HossamKhir/spc-tutorialspoint#readme"
+}
