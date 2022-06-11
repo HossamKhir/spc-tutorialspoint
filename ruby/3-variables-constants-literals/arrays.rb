@@ -9,6 +9,8 @@ arr3 = Array.new(4, 'mac')
 # NOTE: using block for populating an array
 arr4 = Array.new(8){|e| e = e * 2}
 
+# NOTE: when indexing an array, out of index returns `nil`
+
 ## using brackets
 nums = Array.[](1, 2, 3, 4, 5)
 o_num = Array[1, 2, 3, 3, 3]
