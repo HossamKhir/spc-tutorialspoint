@@ -1,3 +1,4 @@
+#! /usr/bin/ruby -w
 # I am a comment. Ignore me.
 name = 'Madesetti' # another comment
 
@@ -7,3 +8,4 @@ block comments
 that can span multiple lines
     
 =end
+puts name
